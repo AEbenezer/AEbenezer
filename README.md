@@ -64,36 +64,6 @@ const ebenezer = {
 
 ---
 
-## &thinsp;GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ebenezer-a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=8888b0&border_radius=10&hide_title=true&hide_rank=false"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezer-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=8888b0&langs_count=6&border_radius=10"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ebenezer-a&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=818cf8&fire=a5b4fc&currStreakLabel=818cf8&sideLabels=3a3a5c&dates=3a3a5c&currStreakNum=c0c0e0&sideNums=c0c0e0&stroke=0D1117&border_radius=10"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebenezer-a&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=4f46e5&point=a5b4fc&area=true&hide_border=true&border_radius=10" width="96%"/>
-
-</div>
-
----
-
-## &thinsp;Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ebenezer-a&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/ebenezer-a)
-
-</div>
-
----
-
 ## &thinsp;Experience
 
 <details>
